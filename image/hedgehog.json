@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c3801a7dbe28e692ca6367831676b612",
+        "name": "hedgehog.jpg",
+        "path": "file:D:/01.windows_work/91.annotation/temp_input/hedgehog.jpg",
+        "size": {
+            "width": 640,
+            "height": 426
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "NqTe-KVGW",
+            "type": "RECTANGLE",
+            "tags": [
+                "hedgehog"
+            ],
+            "boundingBox": {
+                "height": 391.5320740815011,
+                "width": 418.7598794434732,
+                "left": 221.24012055652682,
+                "top": 21.160116112169575
+            },
+            "points": [
+                {
+                    "x": 221.24012055652682,
+                    "y": 21.160116112169575
+                },
+                {
+                    "x": 640,
+                    "y": 21.160116112169575
+                },
+                {
+                    "x": 640,
+                    "y": 412.6921901936706
+                },
+                {
+                    "x": 221.24012055652682,
+                    "y": 412.6921901936706
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
