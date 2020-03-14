@@ -9,7 +9,7 @@ albumentations-examplesは画像拡張ライブラリAlbumentationsのJupyter上
 # Usage
 Jupyter上でalbumentations-examples.ipynbを開いて実行してください。
 
-実行結果例を見るだけであれば、Github上でalbumentations-examples.ipynbを開くと以下のように見ることが出来ます。
+実行例を見るだけであれば、Github上でalbumentations-examples.ipynbを開くと以下のように見ることが出来ます。
 
 ![2020-03-15 (1)](https://user-images.githubusercontent.com/37477845/76687013-7b05e200-6663-11ea-8e7e-f053b0dfbb5a.png)
 
