@@ -1,5 +1,12 @@
 # albumentations-examples
+albumentations-examplesは画像拡張ライブラリAlbumentationsのJupyter上での実行例集です。
 
+# Requirement
+ 
+* OpenCV 3.4.2(or later)
+* Albumentations 0.4.5
+
+# Usage
 
 ぼかし(Blur)
 垂直反転(VerticalFlip)
@@ -63,3 +70,21 @@ ISOノイズ(ISONoise)
 Fancy PCA
 マスクドロップアウト(MaskDropout)
 グリッドドロップアウト(GridDropout)
+
+# Author
+高橋かずひと(https://twitter.com/KzhtTkhs)
+
+# License
+
+albumentations-examples is under [MIT license](LICENSE.md).
+
+# Albumentations License
+
+The original part of Albumentations is distributed under the MIT license.
+
+I pay tribute to his wonderful work.
+
+Copyright (c) 2017 Buslaev Alexander、Alexander Parinov、Vladimir Iglovikov. Licensed under the [MIT license](LICENSE.md).
+
+# Reference
+https://github.com/albumentations-team/albumentations
