@@ -1,5 +1,5 @@
 # albumentations-examples
-albumentations-examplesは画像拡張ライブラリAlbumentationsのJupyter上での実行例集です。
+albumentations-examplesは画像拡張ライブラリAlbumentationsのJupyter上での実行例です。
 
 # Requirement
  
