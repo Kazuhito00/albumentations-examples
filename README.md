@@ -140,6 +140,30 @@ Jupyter上でalbumentations-examples.ipynbを開いて実行してください�
 
 * グリッドドロップアウト(GridDropout)
 
+* imgaugヘルパー：DualIAATransform
+
+* imgaugヘルパー：ImageOnlyIAATransform
+
+* imgaugヘルパー：エンボス(IAAEmboss)
+
+* imgaugヘルパー：スーパーピクセル(IAASuperpixels)
+
+* imgaugヘルパー：先鋭化(IAASharpen)
+
+* imgaugヘルパー：ガウスノイズ(IAAAdditiveGaussianNoise)
+
+* imgaugヘルパー：クロッピング＆パディング(IAACropAndPad)
+
+* imgaugヘルパー：左右反転(IAAFliplr)
+
+* imgaugヘルパー：上下反転(IAAFlipud)
+
+* imgaugヘルパー：アフィン変換(IAAAffine)
+
+* imgaugヘルパー：区分線形アフィン変換(IAAPiecewiseAffine)
+
+* imgaugヘルパー：ランダム4点透視変換(IAAPerspective)
+
 
 # ToDo
 以下の実行例は未実装です。
