@@ -184,6 +184,8 @@ Jupyter上でalbumentations-examples.ipynbを開いて実行してください�
 
 albumentations-examples is under [MIT license](LICENSE.md).
 
+また、ハリネズミの画像は[フリー素材ぱくたそ](https://www.pakutaso.com)様の写真を利用しています。
+
 # Albumentations License
 
 The original part of Albumentations is distributed under the MIT license.
