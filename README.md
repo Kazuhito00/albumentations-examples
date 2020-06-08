@@ -192,7 +192,7 @@ The original part of Albumentations is distributed under the MIT license.
 
 I pay tribute to his wonderful work.
 
-Copyright (c) 2017 Buslaev Alexander、Alexander Parinov、Vladimir Iglovikov. Licensed under the [MIT license](LICENSE.md).
+Copyright (c) 2017 Buslaev Alexander、Alexander Parinov、Vladimir Iglovikov. Licensed under the [MIT license](https://github.com/albumentations-team/albumentations/blob/master/LICENSE).
 
 # Albumentations Reference
 https://github.com/albumentations-team/albumentations
