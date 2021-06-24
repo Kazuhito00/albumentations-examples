@@ -83,9 +83,9 @@ Jupyter上でalbumentations-examples.ipynbを開いて実行してください�
 * グリッドドロップアウト(GridDropout)
 * ~~imgaugヘルパー：DualIAATransform~~
 * ~~imgaugヘルパー：ImageOnlyIAATransform~~
-* ~~imgaugヘルパー：エンボス(IAAEmboss)~~ → エンボス
-* ~~imgaugヘルパー：スーパーピクセル(IAASuperpixels)~~ → スーパーピクセル
-* ~~imgaugヘルパー：先鋭化(IAASharpen)~~ → 先鋭化
+* ~~imgaugヘルパー：エンボス(IAAEmboss)~~ <br>→ エンボス
+* ~~imgaugヘルパー：スーパーピクセル(IAASuperpixels)~~ <br>→ スーパーピクセル
+* ~~imgaugヘルパー：先鋭化(IAASharpen)~~ <br>→ 先鋭化
 * ~~imgaugヘルパー：ガウスノイズ(IAAAdditiveGaussianNoise)~~
 * ~~imgaugヘルパー：クロッピング＆パディング(IAACropAndPad)~~
 * ~~imgaugヘルパー：左右反転(IAAFliplr)~~
