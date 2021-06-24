@@ -94,6 +94,8 @@ Albumentations 1.0.0 からimgaugがデフォルト廃止となったため、�
 * ~~imgaugヘルパー：アフィン変換(IAAAffine)~~
 * ~~imgaugヘルパー：区分線形アフィン変換(IAAPiecewiseAffine)~~
 * ~~imgaugヘルパー：ランダム4点透視変換(IAAPerspective)~~
+* セーフローテート(SafeRotate)
+* ランダムトーンカーブ(RandomToneCurve)
 
 # ToDo
 以下の実行例は未実装です。
