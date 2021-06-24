@@ -18,7 +18,8 @@ Jupyter上でalbumentations-examples.ipynbを開いて実行してください�
 ![2020-03-15 (1)](https://user-images.githubusercontent.com/37477845/76687013-7b05e200-6663-11ea-8e7e-f053b0dfbb5a.png)
 
 # Examples
-以下の実行例を実装しています。
+以下の実行例を実装しています。<br>
+Albumentations 1.0.0 からimgaugがデフォルト廃止となったため、実装をコメントアウトしています。<br>
 * ぼかし(Blur)
 * 垂直反転(VerticalFlip)
 * 水平反転(HorizontalFlip)
