@@ -6,7 +6,7 @@ albumentations-examplesは画像データ拡張ライブラリAlbumentationsのJ
 # Requirement
  
 * OpenCV 3.4.2(or later)
-* Albumentations 0.4.5
+* Albumentations 1.0.0 or later
 
 # Usage
 Jupyter上でalbumentations-examples.ipynbを開いて実行してください。
