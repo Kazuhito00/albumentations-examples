@@ -115,12 +115,7 @@ albumentations-examples is under [MIT license](LICENSE).
 また、ハリネズミの画像は[フリー素材ぱくたそ](https://www.pakutaso.com)様の写真を利用しています。
 
 # Albumentations License
-
-The original part of Albumentations is distributed under the MIT license.
-
-I pay tribute to his wonderful work.
-
-Copyright (c) 2017 Buslaev Alexander、Alexander Parinov、Vladimir Iglovikov. Licensed under the [MIT license](https://github.com/albumentations-team/albumentations/blob/master/LICENSE).
+The original part of Albumentations is distributed under the [MIT license](https://github.com/albumentations-team/albumentations/blob/master/LICENSE).
 
 # Albumentations Reference
 https://github.com/albumentations-team/albumentations
